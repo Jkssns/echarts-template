@@ -1,0 +1,1 @@
+## 解决renderjs无法获取echarts内部function引用vue中值的问题，无法动态改变
